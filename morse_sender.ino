@@ -12,7 +12,7 @@ String morseArray[63] = {"-.-.--", "", "", "...-..-", "", ".-...", ".----.", "-.
 int ledPin = 2; // pin that used to send morse code.
 bool isInverted = false; // build-in LED is inverted on esp8266
 int oneUnitDelay = 80; // 250 is good to decode with smartphone camera(try 80 - 300, lower = faster)
-String DefaultTextToSend = "Hello am I Morse code? yes! I'm test, under_score 1234567890 test at @ slash / other ; : () $&., end";
+String DefaultTextToSend = "Hello world, I'm Morse code beacon";
 
 void setup() {
   Serial.begin(115200);
