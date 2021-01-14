@@ -14,7 +14,7 @@ ESP8266: https://s.click.aliexpress.com/e/_97j7kp
 
 DC-DC Converter: https://s.click.aliexpress.com/e/_dWvPhXW
 
-Powerful LED: https://s.click.aliexpress.com/e/_AETmMd
+Powerful 12V LED: https://s.click.aliexpress.com/e/_AETmMd
 
 IRF540N MOSFET: https://s.click.aliexpress.com/e/_AFz5Pf
 
