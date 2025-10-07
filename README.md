@@ -10,11 +10,11 @@ Apps that work:
 2. Morse camera light chat receive send text torch https://play.google.com/store/apps/details?id=com.g.LightComm
 
 # Components
-ESP8266: [https://s.click.aliexpress.com/e/_97j7kp](https://s.click.aliexpress.com/e/_De5gu7f)
+ESP8266: [https://s.click.aliexpress.com/e/_De5gu7f](https://s.click.aliexpress.com/e/_De5gu7f)
 
-DC-DC Converter: [https://s.click.aliexpress.com/e/_dWvPhXW](https://s.click.aliexpress.com/e/_Dnkh81b)
+DC-DC Converter: [https://s.click.aliexpress.com/e/_c41fyYI7](https://s.click.aliexpress.com/e/_c41fyYI7)
 
 Powerful 12V LED: [https://s.click.aliexpress.com/e/_AETmMd](https://s.click.aliexpress.com/e/_AETmMd)
 
-IRF540N MOSFET: [https://s.click.aliexpress.com/e/_AFz5Pf](https://s.click.aliexpress.com/e/_AFz5Pf)
+IRF540N MOSFET: [https://s.click.aliexpress.com/e/_c3wVXEMB](https://s.click.aliexpress.com/e/_c3wVXEMB)
 
